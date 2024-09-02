@@ -6,15 +6,15 @@
 
   <!--Primeira imagem com largura de 800px-->
   <!--<div style="width: 100%;border: 2px solid green;">-->
-    <img class="" src="assets/img/pantu.png" alt="" width="100%"> <br> 
+    <img class="" src="@/assets/img/pantu.png" alt="" width="100%"> <br> 
  
 
   <!--<div style="width: 50%;border: 2px solid green;">
   <div style="width: 50%;border: 2px solid green;">-->
-      <img class="" src="assets/img/pantu2.png" alt="" width="49%">
+      <img class="" src="@/assets/img/pantu2.png" alt="" width="49%">
 
    <!-- <div style="width: 50%;border: 2px solid green; text-align: right;">-->
-    <img class="" src="assets/img/pantu3.png" alt="" width="49%"> 
+    <img class="" src="@/assets/img/pantu3.png" alt="" width="49%"> 
 
 <div class="video">
       <video controls autoplay>

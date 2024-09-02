@@ -7,6 +7,9 @@
     <!-- Ou um botão para navegação programática -->
     <button @click="navigateToImagemDiversas">Ir para Imagem Diversas</button>
   </div>
+
+  <router-view></router-view>
+
 </template>
 
 <script>
@@ -15,7 +18,8 @@ export default {
   methods: {
     navigateToImagemDiversas() {
       this.$router.push({ name: 'imagem-diversas' });
-    }
+    },
+    
   }
 };
 </script>
