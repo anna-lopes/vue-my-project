@@ -1,29 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import ImagemDiversas from './components/ImagemDiversas.vue';
-import PaginaMenu from './components/PaginaMenu.vue';
-import VideosDiversos from './components/VideosDiversos.vue';
-
 const routes = [
-  {
-    path: '/',
-    name: 'imagem-diversas',
-    component: ImagemDiversas,
-  },
-  {
-    path: '/menu',
-    name: 'pagina-menu',
-    component: PaginaMenu,
-  },
-  {
-    path: '/videos',
-    name: 'videos-diversos',
-    component: VideosDiversos,
-  },
+  { path: '/video', component: () => import('./components/VideoUnico.vue')},
+  { path: '/tabela', component:  () => import('./components/TabelaDiversos.vue')},
+  { path: '/imagens', component: () => import('./components/ImagensDiversas.vue')},
+  // Outras rotas aqui
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
-  routes,
+  history: createWebHistory(process.env.BASE_URL),
+  routes
 });
 
 export default router;
