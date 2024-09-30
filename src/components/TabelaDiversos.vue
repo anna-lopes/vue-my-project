@@ -35,37 +35,37 @@
                 <td>1</td>
                 <td>Pantufa Stitch</td>
                 <td>R$159,90</td>
-                <td><img class="" src="assets/img/pantu.png" class="imgTabela" alt=""></td>
+                <td><img src="assets/img/pantu.png" class="imgTabela" alt=""></td>
             </tr>
             <tr>
               <td>2</td>
                 <td>Pantufa Minnie</td>
                 <td>R$119,90</td>
-                <td><img class="" src="assets/img/pantu2.png" class="imgTabela" alt=""></td>
+                <td><img src="assets/img/pantu2.png" class="imgTabela" alt=""></td>
             </tr>
             <tr>
               <td>3</td>
                 <td>Pantufa Monstro</td>
                 <td>R$259,50</td>
-                <td><img class="" src="assets/img/pantu3.png" class="imgTabela" alt=""></td>
+                <td><img src="assets/img/pantu3.png" class="imgTabela" alt=""></td>
             </tr>
             <tr>
                 <td>1</td>
                 <td>Pantufa Stitch</td>
                 <td>R$159,90</td>
-                <td><img class="" src="assets/img/pantu.png" class="imgTabela" alt=""></td>
+                <td><img src="assets/img/pantu.png" class="imgTabela" alt=""></td>
             </tr>
             <tr>
               <td>2</td>
                 <td>Pantufa Minnie</td>
                 <td>R$119,90</td>
-                <td><img class="" src="assets/img/pantu2.png" class="imgTabela" alt=""></td>
+                <td><img src="assets/img/pantu2.png" class="imgTabela" alt=""></td>
             </tr>
             <tr>
               <td>3</td>
                 <td>Pantufa Monstro</td>
                 <td>R$259,50</td>
-                <td><img class="" src="assets/img/pantu3.png" class="imgTabela" alt=""></td>
+                <td><img src="assets/img/pantu3.png" class="imgTabela" alt=""></td>
             </tr>
     </tbody>
   </table>

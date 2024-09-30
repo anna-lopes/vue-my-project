@@ -2,13 +2,13 @@
   <div class="imagens-container">
     <h1>Galeria de Imagens</h1>
     <div class="gallery">
-      <img src="@/assets/foto1.jpg" alt="Chocolate ao Leite" class="gallery-item" loading="lazy">
-      <img src="@/assets/foto2.jpg" alt="Morango" class="gallery-item" loading="lazy">
-      <img src="@/assets/foto3.jpg" alt="Castanha do Pará" class="gallery-item" loading="lazy">
-      <img src="@/assets/foto4.jpg" alt="Ninho" class="gallery-item" loading="lazy">
-      <img src="@/assets/pantu.png" alt="Trufado" class="gallery-item" loading="lazy">
-      <img src="@/assets/pantu2.png" alt="Caramelo Salgado" class="gallery-item" loading="lazy">
-      <img src="@/assets/pantu3.png" alt="BARRA" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/foto1.jpg" alt="Chocolate ao Leite" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/foto2.jpg" alt="Morango" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/foto3.jpg" alt="Castanha do Pará" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/foto4.jpg" alt="Ninho" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/pantu.png" alt="Trufado" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/pantu2.png" alt="Caramelo Salgado" class="gallery-item" loading="lazy">
+      <img src="@/assets/img/pantu3.png" alt="BARRA" class="gallery-item" loading="lazy">
 
 
       
